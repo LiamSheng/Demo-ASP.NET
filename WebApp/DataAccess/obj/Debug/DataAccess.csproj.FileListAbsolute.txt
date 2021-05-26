@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\asp.net\WebApp\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\DataAccess\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\DataAccess\bin\Debug\Utility.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\DataAccess\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\DataAccess\bin\Debug\Utility.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\asp.net\WebApp\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\asp.net\WebApp\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete

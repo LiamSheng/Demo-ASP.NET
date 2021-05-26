@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\bin\BusinessLogicLayer.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\bin\DataAccess.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\bin\Model.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\bin\Utility.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\bin\BusinessLogicLayer.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\bin\DataAccess.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\bin\Model.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\bin\Utility.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\asp.net\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete

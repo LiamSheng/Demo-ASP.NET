@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\bin\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\bin\Debug\Utility.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\bin\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\bin\Debug\Utility.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\asp.net\WebApp\BusinessLogicLayer\obj\Debug\BusinessLogic.csproj.CopyComplete
