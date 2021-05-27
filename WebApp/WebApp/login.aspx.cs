@@ -13,5 +13,19 @@ namespace WebApp
         {
 
         }
+
+        protected void btn_Login_Click(object sender, EventArgs e)
+        {
+            string username = this.tb_reg_username.Text;
+            string password = this.tb_reg_password.Text;
+
+            if (BusinessLogic.User.login(username, password))
+            {
+                Utility.JsHelper.AlertAndRedirect("Login Success!", "index.aspx");
+            }
+            else {
+                Utility.JsHelper.AlertAndRedirect("Login Error! Try again!", "index.aspx");
+            }
+        }
     }
 }

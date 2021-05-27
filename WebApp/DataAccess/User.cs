@@ -34,5 +34,14 @@ namespace DataAccess
             else
                 return false;
         }
+
+        public static bool login(string username, string password) {
+            string strSqul = "SELECT * FROM t_users WHERE username='" + username + "'AND password='" + password + "'";
+            DataTable dataTable = Utility.MsSqlHelper.Query(strSqul).Tables[0];
+            if (dataTable.Rows.Count == 0)
+                return false;
+            else
+                return true;
+        }
     }
 }

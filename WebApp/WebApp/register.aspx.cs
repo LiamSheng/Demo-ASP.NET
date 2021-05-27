@@ -30,17 +30,19 @@ namespace WebApp
 
             if (BusinessLogic.User.isUniqueUser(this.tb_username.Text))
             {
+                if (BusinessLogic.User.add(user))
+                {
+                    Utility.JsHelper.AlertAndRedirect("Success!", "index.aspx");
+                }
+                else
+                {
+                    Utility.JsHelper.AlertAndRedirect("Error!", "index.aspx");
+                }
                 Utility.JsHelper.AlertAndRedirect("Success!", "index.aspx");
             }
-            else {
+            else
+            {
                 Utility.JsHelper.AlertAndRedirect("The user name already exists, try again!", "register.aspx");
-            }
-
-            if (BusinessLogic.User.add(user)) {
-                Utility.JsHelper.AlertAndRedirect("Success!", "index.aspx");
-            }
-            else {
-                Utility.JsHelper.AlertAndRedirect("Error!", "index.aspx");
             }
         }
     }

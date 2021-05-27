@@ -16,5 +16,9 @@ namespace BusinessLogic
         public static bool isUniqueUser(string username) {
             return DataAccess.User.isUniqueUser(username);
         }
+
+        public static bool login(string username, string password) {
+            return DataAccess.User.login(username, password);
+        }
     }
 }
